@@ -1,0 +1,9 @@
+#Personal
+Host github.com
+	HostName github.com
+	IdentityFile ~/.ssh/personal_id_rsa
+
+#Professional
+Host gitlab.zapbuild.com
+	HostName gitlab.zapbuild.com
+	IdentityFile ~/.ssh/id_rsa
